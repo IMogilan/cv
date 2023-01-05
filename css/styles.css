@@ -1,0 +1,37 @@
+body {
+    background-color: #d6ecdd;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: normal;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: 7px;
+    border-color: #62B6B7;
+    width: 5%;
+}
+
+h1, h2, h3, strong, th {
+    color: #439A97;
+}
+
+h3 {
+    margin: 10px;
+}
+
+ol, ul, li {
+    line-height: 25px;
+}
+
+li p {
+    margin: 2px;
+}
+
+.greenStar {
+    color: #62B6B7;
+}
+
+.italic {
+    font-style: italic;
+}
+
