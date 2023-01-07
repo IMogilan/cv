@@ -1,18 +1,19 @@
 body {
-    background-color: #d6ecdd;
+    background-color: #F8EDE3;
     font-family: Arial, Helvetica, sans-serif;
     line-height: normal;
+    color: #bb9880;
 }
 
 hr {
     border-style: dotted none none none;
     border-width: 7px;
-    border-color: #62B6B7;
+    border-color: #DFD3C3;
     width: 5%;
 }
 
 h1, h2, h3, strong, th {
-    color: #439A97;
+    color: #85586F;
 }
 
 h3 {
@@ -27,8 +28,8 @@ li p {
     margin: 2px;
 }
 
-.greenStar {
-    color: #62B6B7;
+.star {
+    color: #85586F;
 }
 
 .italic {
